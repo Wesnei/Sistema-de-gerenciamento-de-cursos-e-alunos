@@ -1,4 +1,3 @@
-```markdown
 # Sistema de Gerenciamento de Cursos e Alunos
 
 Este é um projeto básico desenvolvido com FastAPI, que oferece funcionalidades CRUD para gerenciar alunos, cursos e professores.  
@@ -119,4 +118,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 ---
 
 Desenvolvido com ❤️ por [Wesnei](https://github.com/Wesnei).
-```
+
